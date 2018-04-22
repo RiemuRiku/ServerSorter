@@ -1,0 +1,27 @@
+    <style type="text/css">
+                    /* Obviously, none of this is necessary...
+                       this is just to show that it can be done ...
+                       I'm just putting some basic style on my shell
+                       class, and the li's and a's within */
+        .shell {
+            width:300px;    
+        }
+
+        .shell ul li {
+            list-style:none;    
+        }
+
+        .shell a {
+            color: #232323;
+            display: block;
+            width: 100%;
+            height:30px;
+            margin: .5em 0;
+            background: #CFC;
+            padding: 5px 10px;
+            font-weight:bold;
+            border: 1px solid #999;
+            border-radius: 3px;
+            text-decoration:none;
+        }
+    </style>
